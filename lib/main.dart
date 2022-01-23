@@ -15,6 +15,7 @@ class PerguntaAppState extends State<PerguntaApp> {
   final perguntas = [
     'Qual a sua cor favorita',
     'Qual a sua idade',
+    'qual o seu time',
   ];
 
   Widget build(BuildContext context) {
